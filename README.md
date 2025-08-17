@@ -4,7 +4,7 @@ This repository hosts the backend for a robust e-commerce platform, built with S
 
 Features 
 
-1.Product Management: Add, view, update, and delete products.
+1.Product Management: Add, view, update, and delete products.  
 2.User Management: Secure user registration and authentication.
 3.Shopping Cart: Add products to cart, update quantities, remove items, clear cart.
 4.Order Processing: Create orders from the shopping cart.
