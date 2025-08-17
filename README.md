@@ -5,27 +5,27 @@ This repository hosts the backend for a robust e-commerce platform, built with S
 Features 
 
 1.Product Management: Add, view, update, and delete products.  
-2.User Management: Secure user registration and authentication.
-3.Shopping Cart: Add products to cart, update quantities, remove items, clear cart.
-4.Order Processing: Create orders from the shopping cart.
-5.User Reviews & Ratings: Submit and view product reviews.
-6.Razorpay Payment Integration:
-Initiate payment orders.
-Verify payment status.
-Handle pending, paid, and failed order statuses.
-7.Comprehensive Logging: Configurable logging for user actions, admin operations, and system events.
-8.Global Error Handling: Consistent API error responses for various exceptions.
-9.JUnit Testing: Unit tests for core service logic.
+2.User Management: Secure user registration and authentication.  
+3.Shopping Cart: Add products to cart, update quantities, remove items, clear cart.  
+4.Order Processing: Create orders from the shopping cart.  
+5.User Reviews & Ratings: Submit and view product reviews.  
+6.Razorpay Payment Integration:  
+Initiate payment orders.    
+Verify payment status.  
+Handle pending, paid, and failed order statuses.  
+7.Comprehensive Logging: Configurable logging for user actions, admin operations, and system events.  
+8.Global Error Handling: Consistent API error responses for various exceptions.  
+9.JUnit Testing: Unit tests for core service logic.  
 
-Project Setup ⚙️
+Project Setup ⚙️  
 
-Prerequisites:
+Prerequisites:  
 
-Before you begin, ensure you have the following installed:
-=>Java Development Kit (JDK): Version 17 or higher.
-=>Apache Maven: Version 3.8.x or higher.
-=>MySQL Database: Version 8.x or higher.
-=>Postman (or any API testing tool): To test the API endpoints.
+Before you begin, ensure you have the following installed:    
+=>Java Development Kit (JDK): Version 17 or higher.  
+=>Apache Maven: Version 3.8.x or higher.  
+=>MySQL Database: Version 8.x or higher.  
+=>Postman (or any API testing tool): To test the API endpoints.  
 
 1. Clone the Repository:
  git clone <your-repository-url>
