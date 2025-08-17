@@ -157,9 +157,6 @@ quantity: (e.g., 2)
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bb4a5797-15a1-4d59-901e-dee9e82e44e3" />
 
-
-
-
 Get Cart Details:  
 Endpoint: /cart/getItems  
 Method: GET  
@@ -308,6 +305,9 @@ Endpoint: /reviews/product/{product_name}
 Method: GET  
 Description: Retrieves all reviews for a specific product.  
 Path Variable: product_name (e.g., /reviews/product/Gaming Laptop)  
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a0aaa67b-5eb7-4a74-a8b2-88e334befdff" />
+
 
 Logging & Error Handling  
   
