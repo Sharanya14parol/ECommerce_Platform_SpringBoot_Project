@@ -157,7 +157,7 @@ quantity: (e.g., 2)
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bb4a5797-15a1-4d59-901e-dee9e82e44e3" />
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c7b179f2-bb94-40d1-9962-91f1286870ba" />
+
 
 
 Get Cart Details:  
