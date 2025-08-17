@@ -80,6 +80,9 @@ Request Body (JSON):
     "password": "securepassword",  
 }  
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/952b3100-b994-4a19-9b46-6af39b4e762a" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/44b8f6c5-91ec-431e-830c-96e5c10a7fd7" />
 
   
 2. Product Management:  
@@ -94,7 +97,11 @@ Request Body (JSON):
     "price": 1500.00,  
     "stockQuantity": 5,  
     "category": "Electronics"  
-}  
+}
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/05c396d1-dcf6-41ec-b770-30e01c3b91e7" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0bcfdbcf-1d6b-405f-9caf-bd28315af211" />
+
   
 Update a Product:(Only accessible to ADMIN)  
 Endpoint: admin/products/{id}  
@@ -108,16 +115,33 @@ Request Body (JSON):
     "stockQuantity": 15,  
     "category": "Electronics"  
 }  
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/05c396d1-dcf6-41ec-b770-30e01c3b91e7" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e9f02251-997b-481c-a18e-c61e50b5bb3a" />
+
   
 Delete a Product:(Only accessible to ADMIN)  
 Endpoint: admin/products/{id}  
 Method: DELETE  
 Description: Deletes a product from the inventory.  
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/05c396d1-dcf6-41ec-b770-30e01c3b91e7" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a7fbb052-28b6-44ba-bf4c-2949513307a5" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6768a2a9-efbb-4f34-9306-24551839ba97" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b26964a6-d8cc-409c-8aef-ff382601c173" />
+
   
 Retrieve all Products:(Accessible to PUBLIC)  
 Endpoint: public/products  
 Method: GET  
 Description: Retrieves all products from the inventory.  
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/952b3100-b994-4a19-9b46-6af39b4e762a" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a7fbb052-28b6-44ba-bf4c-2949513307a5" />
+
   
 3. Cart Management:  
   
@@ -130,6 +154,11 @@ Authentication: Assumes user is authenticated (username pulled from Spring Secur
 Query Parameters:  
 product_name: (e.g.Gaming Laptop Updated)  
 quantity: (e.g., 2)  
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bb4a5797-15a1-4d59-901e-dee9e82e44e3" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c7b179f2-bb94-40d1-9962-91f1286870ba" />
+
 
 Get Cart Details:  
 Endpoint: /cart/getItems  
