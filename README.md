@@ -63,7 +63,10 @@ Request Body (JSON):
     "phone": "1234567890",  
     "address": "123 Main St"  
 }  
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/69e5b349-3e7d-4269-b9d1-029467b7e4a5" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/69e5b349-3e7d-4269-b9d1-029467b7e4a5" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3ea4c5e8-ea2a-4163-9ceb-2827673d4ee7" />
+
 
   
 Login Page Information:  
