@@ -162,7 +162,7 @@ Endpoint: /cart/getItems
 Method: GET  
 Description: Retrieves the current contents of a user's shopping cart.  
 
-<img width="903" height="823" alt="image" src="https://github.com/user-attachments/assets/c6edef2d-37b8-4184-bdf6-d8ecfbf5e5d2" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c6edef2d-37b8-4184-bdf6-d8ecfbf5e5d2" />
 
 
 Remove Item from Cart:  
@@ -224,7 +224,7 @@ Success Response: 201 Created with the internal PurchaseOrder details.
     "razorpayPaymentId": null  
 }  
 
-<img width="854" height="830" alt="image" src="https://github.com/user-attachments/assets/63953b95-c650-4fbf-a429-f2e93571bcc4" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/63953b95-c650-4fbf-a429-f2e93571bcc4" />
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e128ad72-c360-4908-bd77-5ed14f4a63b9" />
 
@@ -238,7 +238,7 @@ Endpoint: /orders/getOrders
 Method: GET  
 Description: Retrieves all purchase orders for the authenticated user.  
 
-<img width="884" height="832" alt="image" src="https://github.com/user-attachments/assets/3df4f917-1dc8-4969-bfdd-a0eba82c11fd" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3df4f917-1dc8-4969-bfdd-a0eba82c11fd" />
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/261324dd-12dd-4aff-bea8-42d2ed7a9f76" />
 
