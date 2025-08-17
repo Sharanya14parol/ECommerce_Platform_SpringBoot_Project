@@ -165,6 +165,9 @@ Endpoint: /cart/getItems
 Method: GET  
 Description: Retrieves the current contents of a user's shopping cart.  
 
+<img width="903" height="823" alt="image" src="https://github.com/user-attachments/assets/c6edef2d-37b8-4184-bdf6-d8ecfbf5e5d2" />
+
+
 Remove Item from Cart:  
 Endpoint: /cart/removeItem  
 Method: DELETE  
@@ -178,6 +181,11 @@ Clear Cart:
 Endpoint: /cart/clear  
 Method: DELETE  
 Description: Clears all items from a user's cart.  
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ca83d843-8bd0-4f69-8230-b6548be7f567" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0880e893-9bd0-4633-b69e-fa0344f50fbf" />
+
 
 4. Order Processing:  
      
@@ -218,16 +226,32 @@ Success Response: 201 Created with the internal PurchaseOrder details.
     "razorpayOrderId": order_punsudg7283,  
     "razorpayPaymentId": null  
 }  
-  
+
+<img width="854" height="830" alt="image" src="https://github.com/user-attachments/assets/63953b95-c650-4fbf-a429-f2e93571bcc4" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e128ad72-c360-4908-bd77-5ed14f4a63b9" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/23d8399b-1f76-411c-ae1b-c41e6532ed38" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aec86213-5db8-455e-badc-0771e58c80af" /> <img width="897" height="826" alt="image" src="https://github.com/user-attachments/assets/e7d74456-27ca-42af-91f0-b87394126bb1" />
+
+
 Get All Orders for a User  
 Endpoint: /orders/getOrders  
 Method: GET  
 Description: Retrieves all purchase orders for the authenticated user.  
 
+<img width="884" height="832" alt="image" src="https://github.com/user-attachments/assets/3df4f917-1dc8-4969-bfdd-a0eba82c11fd" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/261324dd-12dd-4aff-bea8-42d2ed7a9f76" />
+
 Update Order Status  
 Endpoint: /orders/updateStatus  
 Method: PUT  
 Description: Updates the status of a specific order (e.g., to "SHIPPED", "DELIVERED"). This is an ADMIN action.  
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/65c86749-b2c1-488b-a032-5a465330b670" />
+
 
 5.Razorpay Payment Processing   
 This section outlines the two-step process for integrating with Razorpay through your backend.  
@@ -275,6 +299,9 @@ Query Parameters:
 product_name: (e.g., Gaming Laptop)  
 rating: (e.g., 5 - integer from 1 to 5)  
 comment: (e.g., Excellent performance!)  
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fa4efd8f-6640-4af6-9518-83a18fee54a6" />
+
 
 Get Reviews for a Product  
 Endpoint: /reviews/product/{product_name}  
